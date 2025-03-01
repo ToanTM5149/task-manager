@@ -1,0 +1,98 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+*.iml
+*.lock
+.idea/
+.vscode/
+
+# Node.js/Express 
+node_modules/
+npm-debug.log
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Flutter build files
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/gradle/
+/android/gradlew
+/android/gradlew.bat
+/android/local.properties
+/android/.gradle
+/android/captures/
+/android/app/build/
+
+# iOS 
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/ephemeral/
+/ios/.generated/
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/flutter_assets/
+/ios/ServiceDefinitions.json
+/ios/Runner.xcworkspace/
+
+# macOS
+/macos/Flutter/ephemeral/
+/macos/Pods/
+/macos/Flutter/GeneratedPluginRegistrant.*
+
+# Web
+/web/packages
+/web/build/
+
+# Coverage
+coverage/
+.test_coverage.dart
+lcov.info
+
+# Logs
+*.log
+logs/
+
+# Other
+.DS_Store
+.vscode/
+.idea/
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
